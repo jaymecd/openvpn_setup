@@ -1,0 +1,3 @@
+pki/**  filter=crypt diff=crypt
+clients/**  filter=crypt diff=crypt
+servers/**  filter=crypt diff=crypt
